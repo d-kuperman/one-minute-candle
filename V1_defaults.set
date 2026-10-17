@@ -1,0 +1,15 @@
+EMA_Period=200
+MinBodyPercent=80.0
+MinCandleRangePips=2.0
+MaxCandleRangePips=0.0
+RiskPercent=1.0
+FixedInitialBalance=0.0
+UseSpreadFilter=true
+MaxSpreadPips=1.0
+TrailingActivationRR=1.0
+TrailingDistanceRR=1.0
+MaxOpenPositions=1
+MagicNumber=2001501001
+MaxSlippagePoints=10
+EnableDebugLogs=false
+ExportTradesCSV=false
