@@ -1,0 +1,12 @@
+RunID,Key,Value
+golden,Mode,MODE_RESEARCH
+golden,Symbol,EURUSD
+golden,Timeframe,PERIOD_M1
+golden,FirstTickMsc,120000
+golden,LastTickMsc,240000
+golden,SignalSequenceFNV1a64,1
+golden,InpResearchMinBodyPercent,0.0
+golden,Trades,0
+golden,Observations,2
+golden,CensoredObservations,1
+golden,IOFailure,0

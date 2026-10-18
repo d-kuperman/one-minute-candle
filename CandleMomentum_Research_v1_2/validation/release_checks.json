@@ -1,0 +1,10 @@
+{
+  "preset_inputs": 26,
+  "presets": 3,
+  "compilation": "0 errors, 0 warnings (all 3 sources)",
+  "python_tests": 20,
+  "python_result": "PASS",
+  "synthetic_tick_replay": "0 differences",
+  "mt5_integration": "PENDING: isolated tester account unavailable",
+  "optimization_performed": false
+}

@@ -1,0 +1,27 @@
+; CandleMomentum Research V1.2 - no optimization ranges enabled
+InpMode=0
+InpSignalTimeframe=0
+InpMinBodyPercent=80.0
+InpRangeFilter=1
+InpMinRangePips=2.0
+InpMinRangeATR=0.8
+InpMaxRangePips=0.0
+InpMaxRangeATR=0.0
+InpATRPeriod=14
+InpATRTimeframe=0
+InpRR=1.0
+InpRiskPercent=1.0
+InpUseSpreadFilter=true
+InpMaxSpreadPips=1.0
+InpAllowSameDirectionPositions=true
+InpMaxConcurrentPositions=0
+InpMaxAggregateRiskPercent=0.0
+InpMagic=120017
+InpDeviationPoints=10
+InpResearchMaxBars=50
+InpResearchMinBodyPercent=0.0
+InpMinTradesForScore=50
+InpEnableTelemetry=true
+InpRunLabel=ATR
+InpServerTimezone=UNKNOWN
+InpSummaryPipBinWidth=2.0

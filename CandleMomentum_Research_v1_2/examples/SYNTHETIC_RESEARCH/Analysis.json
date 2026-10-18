@@ -1,0 +1,17 @@
+{
+  "RunID": "golden",
+  "Mode": "MODE_RESEARCH",
+  "Symbol": "EURUSD",
+  "Timeframe": "PERIOD_M1",
+  "FirstTickMsc": "120000",
+  "LastTickMsc": "240000",
+  "SequenceFNV": "1",
+  "SelectionSHA256": "7e18f737311b2dc3b2f269dd78396b0351f14fb66efa879f768cb23181883c78",
+  "UniverseMinBody": "0.0",
+  "SignalsInCSV": 2,
+  "TradeCount": 0,
+  "Integrity": "PASS",
+  "Parameters": {
+    "InpResearchMinBodyPercent": "0.0"
+  }
+}

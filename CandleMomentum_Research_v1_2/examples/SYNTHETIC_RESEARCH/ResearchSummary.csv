@@ -1,0 +1,8 @@
+RunID,Dimension,Group,Total,Valid,CensoredObservations,TargetR,Hits,Stops,CensoredForTarget,Resolved,HitPctResolved,HitPctAllValid,MeanMFE_R,MedianMFE_R,MeanMAE_R,MedianMAE_R,MeanMFE_Pips,MedianMFE_Pips,MeanMAE_Pips,MedianMAE_Pips,MeanSL_Pips
+golden,ALL,ALL,2,2,1,0.5,1,0,1,1,100,50,0.75,0.75,0.8,0.8,1.5,1.5,1.6,1.6,2
+golden,ALL,ALL,2,2,1,1,1,0,1,1,100,50,0.75,0.75,0.8,0.8,1.5,1.5,1.6,1.6,2
+golden,ALL,ALL,2,2,1,1.5,1,0,1,1,100,50,0.75,0.75,0.8,0.8,1.5,1.5,1.6,1.6,2
+golden,ALL,ALL,2,2,1,2,0,1,1,1,0,0,0.75,0.75,0.8,0.8,1.5,1.5,1.6,1.6,2
+golden,ALL,ALL,2,2,1,3,0,1,1,1,0,0,0.75,0.75,0.8,0.8,1.5,1.5,1.6,1.6,2
+golden,ALL,ALL,2,2,1,4,0,1,1,1,0,0,0.75,0.75,0.8,0.8,1.5,1.5,1.6,1.6,2
+golden,ALL,ALL,2,2,1,5,0,1,1,1,0,0,0.75,0.75,0.8,0.8,1.5,1.5,1.6,1.6,2

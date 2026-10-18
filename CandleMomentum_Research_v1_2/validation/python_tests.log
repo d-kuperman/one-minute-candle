@@ -1,0 +1,25 @@
+test_censor_not_loss (test_tools.ExportTests.test_censor_not_loss) ... ok
+test_duplicate_position_rejected (test_tools.ExportTests.test_duplicate_position_rejected) ... ok
+test_duplicate_signal_rejected (test_tools.ExportTests.test_duplicate_signal_rejected) ... ok
+test_equivalence_and_context (test_tools.ExportTests.test_equivalence_and_context) ... ok
+test_future_candle_rejected (test_tools.ExportTests.test_future_candle_rejected) ... ok
+test_gap_and_exclusive_horizon_replay (test_tools.ExportTests.test_gap_and_exclusive_horizon_replay) ... ok
+test_golden_research_integrity (test_tools.ExportTests.test_golden_research_integrity) ... ok
+test_invalid_atr_not_zero (test_tools.ExportTests.test_invalid_atr_not_zero) ... ok
+test_io_error_rejected (test_tools.ExportTests.test_io_error_rejected) ... ok
+test_malformed_csv_rejected (test_tools.ExportTests.test_malformed_csv_rejected) ... ok
+test_mfe_cannot_be_negative (test_tools.ExportTests.test_mfe_cannot_be_negative) ... ok
+test_missing_atr_blank_allowed (test_tools.ExportTests.test_missing_atr_blank_allowed) ... ok
+test_missing_level_rejected (test_tools.ExportTests.test_missing_level_rejected) ... ok
+test_missing_ticks_detected (test_tools.ExportTests.test_missing_ticks_detected) ... ok
+test_no_signals_not_exceptional (test_tools.ExportTests.test_no_signals_not_exceptional) ... ok
+test_non_monotonic_first_passage (test_tools.ExportTests.test_non_monotonic_first_passage) ... ok
+test_trade_costs_and_partial_deals_one_position (test_tools.ExportTests.test_trade_costs_and_partial_deals_one_position) ... ok
+test_trade_spread_double_charge_rejected (test_tools.ExportTests.test_trade_spread_double_charge_rejected) ... ok
+test_unsorted_ticks_rejected (test_tools.ExportTests.test_unsorted_ticks_rejected) ... ok
+test_wrong_summary_median_rejected (test_tools.ExportTests.test_wrong_summary_median_rejected) ... ok
+
+----------------------------------------------------------------------
+Ran 20 tests in 0.110s
+
+OK
